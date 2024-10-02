@@ -1,64 +1,12 @@
-{
-  "top_players_2023": [
-    {
-      "rank": 1,
-      "name": "Wilfredo León",
-      "country": "Cuba",
-      "position": "Oposto"
-    },
-    {
-      "rank": 2,
-      "name": "Karch Kiraly",
-      "country": "EUA",
-      "position": "Ponta"
-    },
-    {
-      "rank": 3,
-      "name": "Earvin N'Gapeth",
-      "country": "França",
-      "position": "Ponta"
-    },
-    {
-      "rank": 4,
-      "name": "Bruno Rezende",
-      "country": "Brasil",
-      "position": "Levantador"
-    },
-    {
-      "rank": 5,
-      "name": "Maxim Mikhaylov",
-      "country": "Rússia",
-      "position": "Oposto"
-    },
-    {
-      "rank": 6,
-      "name": "Micah Christenson",
-      "country": "EUA",
-      "position": "Levantador"
-    },
-    {
-      "rank": 7,
-      "name": "Osmany Juantorena",
-      "country": "Cuba",
-      "position": "Ponta"
-    },
-    {
-      "rank": 8,
-      "name": "Tijana Bošković",
-      "country": "Sérvia",
-      "position": "Oposto"
-    },
-    {
-      "rank": 9,
-      "name": "Giba",
-      "country": "Brasil",
-      "position": "Ponta"
-    },
-    {
-      "rank": 10,
-      "name": "Yuki Ishikawa",
-      "country": "Japão",
-      "position": "Ponta"
-    }
-  ]
-}
+[
+    {"name": "Wilfredo León", "rank": 1},
+    {"name": "Karch Kiraly", "rank": 2},
+    {"name": "Earvin N'Gapeth", "rank": 3},
+    {"name": "Bruno Rezende", "rank": 4},
+    {"name": "Maxim Mikhaylov", "rank": 5},
+    {"name": "Micah Christenson", "rank": 6},
+    {"name": "Osmany Juantorena", "rank": 7},
+    {"name": "Tijana Bošković", "rank": 8},
+    {"name": "Giba", "rank": 9},
+    {"name": "Yuki Ishikawa", "rank": 10}
+]
