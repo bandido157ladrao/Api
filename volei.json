@@ -1,0 +1,54 @@
+{
+  "melhores_jogadores": [
+    {
+      "rank": 1,
+      "name": "Wilfredo León",
+      "country": "Cuba"
+    },
+    {
+      "rank": 2,
+      "name": "Karch Kiraly",
+      "country": "EUA"
+    },
+    {
+      "rank": 3,
+      "name": "Earvin N'Gapeth",
+      "country": "França"
+    },
+    {
+      "rank": 4,
+      "name": "Bruno Rezende",
+      "country": "Brasil"
+    },
+    {
+      "rank": 5,
+      "name": "Maxim Mikhaylov",
+      "country": "Rússia"
+    },
+    {
+      "rank": 6,
+      "name": "Micah Christenson",
+      "country": "EUA"
+    },
+    {
+      "rank": 7,
+      "name": "Osmany Juantorena",
+      "country": "Cuba"
+    },
+    {
+      "rank": 8,
+      "name": "Tijana Bošković",
+      "country": "Sérvia"
+    },
+    {
+      "rank": 9,
+      "name": "Giba",
+      "country": "Brasil"
+    },
+    {
+      "rank": 10,
+      "name": "Yuki Ishikawa",
+      "country": "Japão"
+    }
+  ]
+}
