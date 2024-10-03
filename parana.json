@@ -1,36 +1,12 @@
 {
-  "jogadores": [
-    {
-      "nome": "Lucas Silva",
-      "time": "Curitiba Vôlei"
-    },
-    {
-      "nome": "Fernanda Almeida",
-      "time": "Maringá Vôlei"
-    },
-    {
-      "nome": "Rafael Costa",
-      "time": "Londrina Vôlei"
-    },
-    {
-      "nome": "Isabela Martins",
-      "time": "Ponta Grossa Vôlei"
-    },
-    {
-      "nome": "Thiago Mendes",
-      "time": "Cascavel Vôlei"
-    },
-    {
-      "nome": "Ana Paula Santos",
-      "time": "Foz do Iguaçu Vôlei"
-    },
-    {
-      "nome": "Gustavo Oliveira",
-      "time": "Campo Mourão Vôlei"
-    },
-    {
-      "nome": "Bianca Costa",
-      "time": "São José dos Pinhais Vôlei"
+    "Jogadores": {
+        "Giba": "Funvic/Taubaté",
+        "Ricardo": "Sesi-SP",
+        "Lucão": "Taubaté",
+        "Bruno": "Renata/Valinhos",
+        "Dante": "Fluminense",
+        "Murilo": "Sesi-SP",
+        "Lipe": "Vôlei Taubaté",
+        "Thiago": "Santo André"
     }
-  ]
 }
